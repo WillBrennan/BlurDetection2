@@ -36,4 +36,4 @@ how blurry an image is, the higher the value, the less blurry the image.
 ```
 
 
-![Blur Mask Demo](https://raw.githubusercontent.com/WillBrennan/BlurDetection/master/docs/demo.png)
+![Blur Mask Demo](https://raw.githubusercontent.com/WillBrennan/BlurDetection2/master/docs/demo.png)
