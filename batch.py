@@ -44,21 +44,25 @@ if __name__ == '__main__':
     results = []
 
     for input_path in find_images(args.input_dir):
-        logging.info("processing {0}".format(input_path))
-        input_image = cv2.imread(input_path)
+        try:
+            logging.info("processing {0}".format(input_path))
+            input_image = cv2.imread(input_path)
 
-        if args.fix_size:
-            input_image = fix_image_size(input_image)
+            if args.fix_size:
+                input_image = fix_image_size(input_image)
 
-        blur_map, score, blurry = estimate_blur(input_image)
+            blur_map, score, blurry = estimate_blur(input_image)
 
-        logging.info("input_path: {0}, score: {1}, blurry: {2}".format(input_path, score, blurry))
-        results.append({"input_path": input_path, "score": score, "blurry": blurry})
+            logging.info("input_path: {0}, score: {1}, blurry: {2}".format(input_path, score, blurry))
+            results.append({"input_path": input_path, "score": score, "blurry": blurry})
 
-        if args.display:
-            cv2.imshow("input", input_image)
-            cv2.imshow("result", pretty_blur_map(blur_map))
-            cv2.waitKey(0)
+            if args.display:
+                cv2.imshow("input", input_image)
+                cv2.imshow("result", pretty_blur_map(blur_map))
+                cv2.waitKey(0)
+        except Exception as e:
+            print(e)
+            pass
 
     logging.info("writing results to {0}".format(args.save_path))
 
