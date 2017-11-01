@@ -35,5 +35,6 @@ how blurry an image is, the higher the value, the less blurry the image.
 }
 ```
 
+This is based upon the blogpost [Blur Detection With Opencv](https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/) by Adrian Rosebrock.
 
 ![Blur Mask Demo](https://raw.githubusercontent.com/WillBrennan/BlurDetection2/master/docs/demo.png)
