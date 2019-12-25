@@ -1,0 +1,1246 @@
+{
+    "input_dir": "./test",
+    "results": [
+        {
+            "blurry": false,
+            "input_path": "test/26-378-0.png",
+            "score": 58.128706304494465
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-5-0.png",
+            "score": 53.75598530960333
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-4-0.png",
+            "score": 73.26553309195542
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-22-0.png",
+            "score": 70.06435982939813
+        },
+        {
+            "blurry": false,
+            "input_path": "test/15-41-0.png",
+            "score": 35.67090586706227
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-9-0.png",
+            "score": 143.13517467995666
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9850-0.png",
+            "score": 52.91451019835951
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9908-0.png",
+            "score": 29.061433224656803
+        },
+        {
+            "blurry": false,
+            "input_path": "test/4-0-0.png",
+            "score": 37.37219603675155
+        },
+        {
+            "blurry": false,
+            "input_path": "test/7-1-0.png",
+            "score": 29.817008426566193
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9911-0.png",
+            "score": 37.2776744346193
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-15-0.png",
+            "score": 66.29558924276967
+        },
+        {
+            "blurry": false,
+            "input_path": "test/23-442-0.png",
+            "score": 49.98794090156974
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9849-0.png",
+            "score": 55.606778575033566
+        },
+        {
+            "blurry": false,
+            "input_path": "test/16-57-0.png",
+            "score": 35.23559387720868
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-17-0.png",
+            "score": 90.25064188965162
+        },
+        {
+            "blurry": false,
+            "input_path": "test/23-440-0.png",
+            "score": 22.533345906493487
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9913-0.png",
+            "score": 32.05214781673853
+        },
+        {
+            "blurry": false,
+            "input_path": "test/7-3-0.png",
+            "score": 64.57268648147169
+        },
+        {
+            "blurry": false,
+            "input_path": "test/4-2-0.png",
+            "score": 23.062619016791384
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-18-0.png",
+            "score": 36.08313609524969
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9852-0.png",
+            "score": 60.19118493193171
+        },
+        {
+            "blurry": false,
+            "input_path": "test/20-278-0.png",
+            "score": 115.66050536706477
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-7-0.png",
+            "score": 54.89395001914553
+        },
+        {
+            "blurry": false,
+            "input_path": "test/15-43-0.png",
+            "score": 54.26348883705673
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-20-0.png",
+            "score": 60.71231807433532
+        },
+        {
+            "blurry": false,
+            "input_path": "test/18-186-0.png",
+            "score": 54.76388980696668
+        },
+        {
+            "blurry": false,
+            "input_path": "test/19-221-0.png",
+            "score": 74.22702258449917
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-19-0.png",
+            "score": 57.30620120512705
+        },
+        {
+            "blurry": false,
+            "input_path": "test/16-48-0.png",
+            "score": 50.90238683517687
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-24-0.png",
+            "score": 64.0903358548463
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-3-0.png",
+            "score": 53.16107944125267
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9933-0.png",
+            "score": 23.10546221103106
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-2-0.png",
+            "score": 62.55584225687464
+        },
+        {
+            "blurry": false,
+            "input_path": "test/16-51-0.png",
+            "score": 34.541235795601494
+        },
+        {
+            "blurry": false,
+            "input_path": "test/13-1510-0.png",
+            "score": 33.18731877528993
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-13-0.png",
+            "score": 141.53174665850577
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-13-0.png",
+            "score": 32.77604114592427
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9917-0.png",
+            "score": 29.70178153309027
+        },
+        {
+            "blurry": false,
+            "input_path": "test/23-484-0.png",
+            "score": 64.24964199105838
+        },
+        {
+            "blurry": false,
+            "input_path": "test/14-8626-0.png",
+            "score": 75.92605623570304
+        },
+        {
+            "blurry": false,
+            "input_path": "test/27-428-0.png",
+            "score": 61.19855680002027
+        },
+        {
+            "blurry": false,
+            "input_path": "test/18-166-0.png",
+            "score": 50.65010584621561
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9928-0.png",
+            "score": 16.015735925242257
+        },
+        {
+            "blurry": false,
+            "input_path": "test/7-5-0.png",
+            "score": 50.16127182832884
+        },
+        {
+            "blurry": false,
+            "input_path": "test/16-53-0.png",
+            "score": 22.66692686022297
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-8-0.png",
+            "score": 40.487634135944624
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9915-0.png",
+            "score": 32.81732733619313
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-9-0.png",
+            "score": 23.999149727352865
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-11-0.png",
+            "score": 148.73840606733006
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-11-0.png",
+            "score": 37.345397324000956
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-26-0.png",
+            "score": 76.17380615231643
+        },
+        {
+            "blurry": false,
+            "input_path": "test/26-381-0.png",
+            "score": 56.3115983466097
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9931-0.png",
+            "score": 19.248740503607284
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-0-0.png",
+            "score": 67.98388217247248
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-1-0.png",
+            "score": 58.062942906342705
+        },
+        {
+            "blurry": false,
+            "input_path": "test/23-439-0.png",
+            "score": 17.386092851151986
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-19-0.png",
+            "score": 63.205401483194876
+        },
+        {
+            "blurry": false,
+            "input_path": "test/7-2-0.png",
+            "score": 35.58199095163929
+        },
+        {
+            "blurry": false,
+            "input_path": "test/16-54-0.png",
+            "score": 60.59993760432675
+        },
+        {
+            "blurry": false,
+            "input_path": "test/26-437-0.png",
+            "score": 20.40478364659489
+        },
+        {
+            "blurry": false,
+            "input_path": "test/23-441-0.png",
+            "score": 50.77498710396468
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-16-0.png",
+            "score": 68.55529715406918
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9912-0.png",
+            "score": 31.106605310796013
+        },
+        {
+            "blurry": false,
+            "input_path": "test/28-581-0.png",
+            "score": 60.0771692284265
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-21-0.png",
+            "score": 56.98707918320017
+        },
+        {
+            "blurry": false,
+            "input_path": "test/16-70-0.png",
+            "score": 18.995941196147225
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-6-0.png",
+            "score": 56.58395114222265
+        },
+        {
+            "blurry": false,
+            "input_path": "test/14-8642-0.png",
+            "score": 61.85367444160932
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9909-0.png",
+            "score": 35.75128273850876
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-8-0.png",
+            "score": 134.44001178601619
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9851-0.png",
+            "score": 70.0089248110188
+        },
+        {
+            "blurry": false,
+            "input_path": "test/18-185-0.png",
+            "score": 146.65275343068632
+        },
+        {
+            "blurry": false,
+            "input_path": "test/16-72-0.png",
+            "score": 18.12610285733155
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-23-0.png",
+            "score": 58.544170446140136
+        },
+        {
+            "blurry": false,
+            "input_path": "test/27-436-0.png",
+            "score": 127.36610026793942
+        },
+        {
+            "blurry": false,
+            "input_path": "test/21-261-0.png",
+            "score": 56.88509488526824
+        },
+        {
+            "blurry": false,
+            "input_path": "test/26-379-0.png",
+            "score": 78.27998390614516
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-4-0.png",
+            "score": 68.8378995438161
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-5-0.png",
+            "score": 47.57396866341872
+        },
+        {
+            "blurry": false,
+            "input_path": "test/13-1552-0.png",
+            "score": 34.47294109728239
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9910-0.png",
+            "score": 28.996650661578506
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-14-0.png",
+            "score": 150.09522445028855
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-14-0.png",
+            "score": 26.32545255945575
+        },
+        {
+            "blurry": false,
+            "input_path": "test/4-1-0.png",
+            "score": 22.740318299512502
+        },
+        {
+            "blurry": false,
+            "input_path": "test/7-0-0.png",
+            "score": 33.0413009529641
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-9-0.png",
+            "score": 44.606604005963746
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9914-0.png",
+            "score": 36.94449602364695
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-10-0.png",
+            "score": 154.80471607213957
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-8-0.png",
+            "score": 21.103249577936435
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-10-0.png",
+            "score": 39.42940605708962
+        },
+        {
+            "blurry": false,
+            "input_path": "test/16-52-0.png",
+            "score": 27.269412338344292
+        },
+        {
+            "blurry": false,
+            "input_path": "test/7-4-0.png",
+            "score": 54.16053346516812
+        },
+        {
+            "blurry": false,
+            "input_path": "test/18-165-0.png",
+            "score": 76.86192366444801
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9929-0.png",
+            "score": 17.75035099341742
+        },
+        {
+            "blurry": false,
+            "input_path": "test/26-380-0.png",
+            "score": 45.27045084879465
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9930-0.png",
+            "score": 15.748115005272636
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-1-0.png",
+            "score": 87.72398981830314
+        },
+        {
+            "blurry": false,
+            "input_path": "test/15-44-0.png",
+            "score": 36.0134269910732
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-27-0.png",
+            "score": 85.15311897315968
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-2-0.png",
+            "score": 56.445287326251716
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9932-0.png",
+            "score": 20.034978262456953
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-3-0.png",
+            "score": 62.02395709322425
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-25-0.png",
+            "score": 63.13482068321218
+        },
+        {
+            "blurry": false,
+            "input_path": "test/27-430-0.png",
+            "score": 64.26767132163799
+        },
+        {
+            "blurry": false,
+            "input_path": "test/18-183-0.png",
+            "score": 132.01784694834157
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-18-0.png",
+            "score": 53.823919692312366
+        },
+        {
+            "blurry": false,
+            "input_path": "test/16-49-0.png",
+            "score": 60.919420684753696
+        },
+        {
+            "blurry": false,
+            "input_path": "test/27-429-0.png",
+            "score": 45.85108184755622
+        },
+        {
+            "blurry": false,
+            "input_path": "test/18-167-0.png",
+            "score": 67.8780798404565
+        },
+        {
+            "blurry": false,
+            "input_path": "test/23-485-0.png",
+            "score": 65.61851654825054
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-12-0.png",
+            "score": 181.74424356532776
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-12-0.png",
+            "score": 46.62127610284666
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9916-0.png",
+            "score": 30.095145290800595
+        },
+        {
+            "blurry": false,
+            "input_path": "test/16-50-0.png",
+            "score": 61.53610170193472
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-6-0.png",
+            "score": 26.495667787931392
+        },
+        {
+            "blurry": true,
+            "input_path": "test/17-103-0.png",
+            "score": 13.399906971864384
+        },
+        {
+            "blurry": false,
+            "input_path": "test/9-1-0.png",
+            "score": 95.21631431743025
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-7-0.png",
+            "score": 58.41836609950903
+        },
+        {
+            "blurry": false,
+            "input_path": "test/13-1558-0.png",
+            "score": 22.13659069740046
+        },
+        {
+            "blurry": false,
+            "input_path": "test/20-268-0.png",
+            "score": 22.888928096957834
+        },
+        {
+            "blurry": false,
+            "input_path": "test/13-1520-0.png",
+            "score": 40.75021171227262
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-30-0.png",
+            "score": 72.29663915862602
+        },
+        {
+            "blurry": false,
+            "input_path": "test/21-237-0.png",
+            "score": 52.75944108938228
+        },
+        {
+            "blurry": false,
+            "input_path": "test/19-208-0.png",
+            "score": 61.55308807219034
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-11-0.png",
+            "score": 54.52614522658029
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9927-0.png",
+            "score": 17.36599531024233
+        },
+        {
+            "blurry": false,
+            "input_path": "test/14-8858-0.png",
+            "score": 67.13026169043707
+        },
+        {
+            "blurry": false,
+            "input_path": "test/22-432-0.png",
+            "score": 18.74038360940209
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-2-0.png",
+            "score": 51.58258720096995
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-14-0.png",
+            "score": 64.64504531354723
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9903-0.png",
+            "score": 49.641525554480125
+        },
+        {
+            "blurry": false,
+            "input_path": "test/10-2-0.png",
+            "score": 33.519455745169296
+        },
+        {
+            "blurry": false,
+            "input_path": "test/14-8632-0.png",
+            "score": 55.67448429835324
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-29-0.png",
+            "score": 92.8266122291121
+        },
+        {
+            "blurry": false,
+            "input_path": "test/10-0-0.png",
+            "score": 59.8871683488126
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-16-0.png",
+            "score": 69.34799987501275
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-0-0.png",
+            "score": 67.02512614630011
+        },
+        {
+            "blurry": false,
+            "input_path": "test/16-47-0.png",
+            "score": 45.57521951565673
+        },
+        {
+            "blurry": false,
+            "input_path": "test/19-197-0.png",
+            "score": 49.53832137135409
+        },
+        {
+            "blurry": false,
+            "input_path": "test/27-427-0.png",
+            "score": 51.75026373266766
+        },
+        {
+            "blurry": false,
+            "input_path": "test/11-4-0.png",
+            "score": 23.607641299048815
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9925-0.png",
+            "score": 16.777925441893448
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-13-0.png",
+            "score": 48.98514696516558
+        },
+        {
+            "blurry": false,
+            "input_path": "test/21-235-0.png",
+            "score": 73.92541062853526
+        },
+        {
+            "blurry": false,
+            "input_path": "test/11-2556-0.png",
+            "score": 108.04755876081597
+        },
+        {
+            "blurry": false,
+            "input_path": "test/9-3-0.png",
+            "score": 75.14710094400918
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-5-0.png",
+            "score": 43.36342220455718
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-4-0.png",
+            "score": 23.822282867403384
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9918-0.png",
+            "score": 38.36056226433878
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-17-0.png",
+            "score": 38.10294938212001
+        },
+        {
+            "blurry": false,
+            "input_path": "test/23-472-0.png",
+            "score": 51.482461551996096
+        },
+        {
+            "blurry": false,
+            "input_path": "test/11-0-0.png",
+            "score": 18.60834153229175
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9921-0.png",
+            "score": 23.077141587539515
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-0-0.png",
+            "score": 18.19503850024599
+        },
+        {
+            "blurry": false,
+            "input_path": "test/17-105-0.png",
+            "score": 50.6175955596522
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-1-0.png",
+            "score": 43.91353933520073
+        },
+        {
+            "blurry": false,
+            "input_path": "test/10-4-0.png",
+            "score": 31.509142989179505
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-8-0.png",
+            "score": 66.52868841988416
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9905-0.png",
+            "score": 41.3825734205056
+        },
+        {
+            "blurry": false,
+            "input_path": "test/25-474-0.png",
+            "score": 97.97146188683772
+        },
+        {
+            "blurry": false,
+            "input_path": "test/8-3-0.png",
+            "score": 24.303654444970537
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-12-0.png",
+            "score": 74.815269716835
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-4-0.png",
+            "score": 128.04958184054905
+        },
+        {
+            "blurry": false,
+            "input_path": "test/20-277-0.png",
+            "score": 74.94423013184921
+        },
+        {
+            "blurry": false,
+            "input_path": "test/20-232-0.png",
+            "score": 49.842665255846704
+        },
+        {
+            "blurry": false,
+            "input_path": "test/25-476-0.png",
+            "score": 65.19505085695285
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9907-0.png",
+            "score": 40.189612576997874
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-6-0.png",
+            "score": 109.2889633869921
+        },
+        {
+            "blurry": false,
+            "input_path": "test/20-230-0.png",
+            "score": 38.252929127461705
+        },
+        {
+            "blurry": false,
+            "input_path": "test/13-1500-0.png",
+            "score": 39.558187167429914
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-10-0.png",
+            "score": 69.65451216600182
+        },
+        {
+            "blurry": false,
+            "input_path": "test/8-1-0.png",
+            "score": 23.167860485387607
+        },
+        {
+            "blurry": false,
+            "input_path": "test/22-436-0.png",
+            "score": 44.54742844935192
+        },
+        {
+            "blurry": false,
+            "input_path": "test/10-6-0.png",
+            "score": 35.588225935550206
+        },
+        {
+            "blurry": false,
+            "input_path": "test/19-188-0.png",
+            "score": 38.743782723352616
+        },
+        {
+            "blurry": false,
+            "input_path": "test/17-107-0.png",
+            "score": 29.40371652551434
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-3-0.png",
+            "score": 57.39544640012149
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-2-0.png",
+            "score": 19.862183496742762
+        },
+        {
+            "blurry": false,
+            "input_path": "test/11-2-0.png",
+            "score": 29.207872845225516
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9923-0.png",
+            "score": 22.26924368946258
+        },
+        {
+            "blurry": false,
+            "input_path": "test/23-470-0.png",
+            "score": 40.08926541187383
+        },
+        {
+            "blurry": false,
+            "input_path": "test/21-233-0.png",
+            "score": 52.221111413673185
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-15-0.png",
+            "score": 57.28773521776341
+        },
+        {
+            "blurry": false,
+            "input_path": "test/10-1789-0.png",
+            "score": 26.729012968669714
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-17-0.png",
+            "score": 71.86206215970968
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-1-0.png",
+            "score": 63.98021346082306
+        },
+        {
+            "blurry": false,
+            "input_path": "test/10-1-0.png",
+            "score": 34.18794362207477
+        },
+        {
+            "blurry": false,
+            "input_path": "test/14-9001-0.png",
+            "score": 32.22997839632323
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-4-0.png",
+            "score": 38.90268561375576
+        },
+        {
+            "blurry": false,
+            "input_path": "test/9-2-0.png",
+            "score": 57.43983937519945
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-5-0.png",
+            "score": 29.451857527446265
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9919-0.png",
+            "score": 25.101402747790644
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9924-0.png",
+            "score": 15.665169703092529
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-12-0.png",
+            "score": 52.92369204345586
+        },
+        {
+            "blurry": false,
+            "input_path": "test/21-234-0.png",
+            "score": 46.748444415347805
+        },
+        {
+            "blurry": false,
+            "input_path": "test/18-168-0.png",
+            "score": 37.191932478942995
+        },
+        {
+            "blurry": false,
+            "input_path": "test/24-472-0.png",
+            "score": 59.72842051975165
+        },
+        {
+            "blurry": false,
+            "input_path": "test/27-426-0.png",
+            "score": 75.04286358298164
+        },
+        {
+            "blurry": false,
+            "input_path": "test/21-236-0.png",
+            "score": 45.8344939109003
+        },
+        {
+            "blurry": false,
+            "input_path": "test/19-209-0.png",
+            "score": 52.38741442278897
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-10-0.png",
+            "score": 41.66327717825699
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9926-0.png",
+            "score": 19.64733404158391
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-31-0.png",
+            "score": 77.66476542618292
+        },
+        {
+            "blurry": false,
+            "input_path": "test/16-60-0.png",
+            "score": 26.22684245804651
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-7-0.png",
+            "score": 22.269297375845618
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-6-0.png",
+            "score": 42.46639917461208
+        },
+        {
+            "blurry": false,
+            "input_path": "test/9-0-0.png",
+            "score": 118.91815372521926
+        },
+        {
+            "blurry": false,
+            "input_path": "test/10-3-0.png",
+            "score": 42.34171675755001
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-28-0.png",
+            "score": 53.99643825563347
+        },
+        {
+            "blurry": false,
+            "input_path": "test/19-210-0.png",
+            "score": 58.22341730695132
+        },
+        {
+            "blurry": false,
+            "input_path": "test/14-9003-0.png",
+            "score": 53.2616509499338
+        },
+        {
+            "blurry": false,
+            "input_path": "test/8-4-0.png",
+            "score": 31.513949956604915
+        },
+        {
+            "blurry": false,
+            "input_path": "test/22-433-0.png",
+            "score": 29.07114855705959
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-3-0.png",
+            "score": 147.37279014483778
+        },
+        {
+            "blurry": false,
+            "input_path": "test/20-270-0.png",
+            "score": 21.180942983809533
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-15-0.png",
+            "score": 82.19190802359385
+        },
+        {
+            "blurry": false,
+            "input_path": "test/26-376-0.png",
+            "score": 27.836869524773157
+        },
+        {
+            "blurry": false,
+            "input_path": "test/24-490-0.png",
+            "score": 64.68479431207089
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-7-0.png",
+            "score": 143.9369423115063
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-11-0.png",
+            "score": 84.74326104285129
+        },
+        {
+            "blurry": false,
+            "input_path": "test/8-0-0.png",
+            "score": 23.124642220677966
+        },
+        {
+            "blurry": false,
+            "input_path": "test/19-190-0.png",
+            "score": 46.76951169329724
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9906-0.png",
+            "score": 33.85555793771016
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9922-0.png",
+            "score": 31.052674278492592
+        },
+        {
+            "blurry": false,
+            "input_path": "test/11-3-0.png",
+            "score": 31.77749424336766
+        },
+        {
+            "blurry": false,
+            "input_path": "test/23-471-0.png",
+            "score": 49.12872673029438
+        },
+        {
+            "blurry": false,
+            "input_path": "test/21-232-0.png",
+            "score": 49.842665255846704
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-14-0.png",
+            "score": 53.1976405401252
+        },
+        {
+            "blurry": false,
+            "input_path": "test/19-189-0.png",
+            "score": 28.937596553834354
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-2-0.png",
+            "score": 38.39927363492634
+        },
+        {
+            "blurry": false,
+            "input_path": "test/9-4-0.png",
+            "score": 46.12696649391956
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-3-0.png",
+            "score": 23.193473970371652
+        },
+        {
+            "blurry": false,
+            "input_path": "test/2-1-0.png",
+            "score": 20.269636231514
+        },
+        {
+            "blurry": false,
+            "input_path": "test/29-119-0.png",
+            "score": 34.390553468328946
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-0-0.png",
+            "score": 40.847827328749524
+        },
+        {
+            "blurry": false,
+            "input_path": "test/1-16-0.png",
+            "score": 35.87904320156664
+        },
+        {
+            "blurry": false,
+            "input_path": "test/23-473-0.png",
+            "score": 64.0407517279212
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9920-0.png",
+            "score": 25.919908865921762
+        },
+        {
+            "blurry": false,
+            "input_path": "test/11-1-0.png",
+            "score": 32.62389072773064
+        },
+        {
+            "blurry": false,
+            "input_path": "test/22-435-0.png",
+            "score": 33.115853191710414
+        },
+        {
+            "blurry": false,
+            "input_path": "test/8-2-0.png",
+            "score": 26.575267037185576
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-13-0.png",
+            "score": 78.37154836506069
+        },
+        {
+            "blurry": false,
+            "input_path": "test/3-5-0.png",
+            "score": 118.29185008827467
+        },
+        {
+            "blurry": false,
+            "input_path": "test/5-9904-0.png",
+            "score": 36.46308645564952
+        },
+        {
+            "blurry": false,
+            "input_path": "test/6-9-0.png",
+            "score": 77.32332884740507
+        },
+        {
+            "blurry": false,
+            "input_path": "test/10-5-0.png",
+            "score": 35.79874669705497
+        },
+        {
+            "blurry": false,
+            "input_path": "test/24-492-0.png",
+            "score": 36.15295338768903
+        }
+    ],
+    "threshold": 15.0
+}

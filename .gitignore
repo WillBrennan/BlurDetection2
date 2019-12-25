@@ -1,3 +1,7 @@
+.DS_Store
+desktop.ini
+result.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
