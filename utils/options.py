@@ -44,11 +44,19 @@ class Options(object):
 
     def __find_images(self):
         path = Path(self.__args.input_dir)
+        imgtypes = 'jpg, png, jpeg'
         if path.is_dir():
-            imgs = [img.as_posix() for img in path.glob('./*.*[jpg, png, jpeg]')]
+            imgs = [img.as_posix() for img in path.glob('./*.*[{}]'.format(imgtypes))]
+            assert len(imgs) == 0, 'The directory cannot find any images.'
             return imgs
-        elif path.is_file():
-            return [Path(input_dir).as_posix()]
+        else:
+            suffix_check = True if imgtypes.find(path.suffix[1:]) > 0 else False
+            assert suffix_check, 'Please check the type of input image.'
+            exist_check = path.is_file() 
+            if exist_check:
+                return [path.as_posix()]
+            else:
+                assert exist_check, '"{}" is not found.'.format(path)
 
     def save_result(self):
         logging.info("writing results to {0}".format(self.__args.save_path))
