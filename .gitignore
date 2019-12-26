@@ -93,3 +93,9 @@ ENV/
 
 # Intelija ID
 .idea/
+
+# other files
+*.json
+*.jpg
+*.jpeg
+*.png
