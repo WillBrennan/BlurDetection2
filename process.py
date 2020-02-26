@@ -17,7 +17,7 @@ def parse_args():
     parser.add_argument('-s', '--save-path', type=str, default=None, help='path to save output')
 
     parser.add_argument('-t', '--threshold', type=float, default=100.0, help='blurry threshold')
-    parser.add_argument('-f', '--fix-size', type=bool, default=True, help='fix the image size')
+    parser.add_argument('-f', '--variable-size', action='store_true', help='fix the image size')
 
     parser.add_argument('-v', '--verbose', action='store_true', help='set logging level to debug')
     parser.add_argument('-d', '--display', action='store_true', help='display images')
@@ -50,6 +50,9 @@ if __name__ == '__main__':
     level = logging.DEBUG if args.verbose else logging.INFO
     logging.basicConfig(level=level)
 
+    fix_size = not args.variable_size
+    logging.info(f'fix_size: {fix_size}')
+
     if args.save_path is not None:
         save_path = pathlib.Path(args.save_path)
         assert save_path.suffix == '.json', save_path.suffix
@@ -66,7 +69,7 @@ if __name__ == '__main__':
 
         logging.info(f'processing {image_path}')
 
-        if args.fix_size:
+        if fix_size:
             image = fix_image_size(image)
         else:
             logging.warning('not normalizing image size for consistent scoring!')
@@ -88,5 +91,5 @@ if __name__ == '__main__':
         logging.info(f'saving json to {save_path}')
 
         with open(save_path, 'w') as result_file:
-            data = {'images': args.images, 'threshold': args.threshold, 'fix_size': args.fix_size, 'results': results}
+            data = {'images': args.images, 'threshold': args.threshold, 'fix_size': fix_size, 'results': results}
             json.dump(data, result_file, indent=4)

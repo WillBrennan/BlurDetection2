@@ -9,7 +9,7 @@ This package only depends on numpy and opencv, to install them run,
 pip install -U -r requirements.txt
 ```
 
-The repository has a script, `process.py` which lets us run on single images or directories of images. The blur detection method is highly dependent on the size of the image being processed. To get consistent scores we fix the image size to HD, to disable this use  `--fix-size=False`. The script has options to, 
+The repository has a script, `process.py` which lets us run on single images or directories of images. The blur detection method is highly dependent on the size of the image being processed. To get consistent scores we fix the image size to HD, to disable this use  `--variable-size`. The script has options to, 
 
 ```bash
 # run on a single image
