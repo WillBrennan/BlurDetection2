@@ -74,7 +74,7 @@ if __name__ == '__main__':
         else:
             logging.warning('not normalizing image size for consistent scoring!')
 
-        blur_map, score, blurry = estimate_blur(image)
+        blur_map, score, blurry = estimate_blur(image, threshold=args.threshold)
 
         logging.info(f'image_path: {image_path} score: {score} blurry: {blurry}')
         results.append({'input_path': str(image_path), 'score': score, 'blurry': blurry})
