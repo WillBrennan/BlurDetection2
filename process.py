@@ -44,7 +44,7 @@ def find_images(image_paths, img_extensions=['.jpg', '.png', '.jpeg']):
 
 
 if __name__ == '__main__':
-    assert sys.version_info >= (3, 7), sys.version_info
+    assert sys.version_info >= (3, 6), sys.version_info
     args = parse_args()
 
     level = logging.DEBUG if args.verbose else logging.INFO
