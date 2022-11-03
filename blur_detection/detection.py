@@ -5,7 +5,7 @@ import numpy
 
 
 def fix_image_size(image: numpy.array, expected_pixels: float = 2E6):
-    ratio = expected_pixels / (image.shape[0] * image.shape[1])
+    ratio = numpy.sqrt(expected_pixels / (image.shape[0] * image.shape[1]))
     return cv2.resize(image, (0, 0), fx=ratio, fy=ratio)
 
 
