@@ -3,6 +3,8 @@ import argparse
 import logging
 import pathlib
 import json
+import shutil
+import os
 
 import cv2
 
@@ -15,12 +17,14 @@ def parse_args():
     parser = argparse.ArgumentParser(description='run blur detection on a single image')
     parser.add_argument('-i', '--images', type=str, nargs='+', required=True, help='directory of images')
     parser.add_argument('-s', '--save-path', type=str, default=None, help='path to save output')
+    parser.add_argument('-c', '--copy',      type=str, default=None, help='path to copy not blurry image')
 
     parser.add_argument('-t', '--threshold', type=float, default=100.0, help='blurry threshold')
     parser.add_argument('-f', '--variable-size', action='store_true', help='fix the image size')
 
     parser.add_argument('-v', '--verbose', action='store_true', help='set logging level to debug')
     parser.add_argument('-d', '--display', action='store_true', help='display images')
+    
 
     return parser.parse_args()
 
@@ -59,6 +63,9 @@ if __name__ == '__main__':
     else:
         save_path = None
 
+    if args.copy is not None:
+        copy = pathlib.Path(args.copy)
+
     results = []
 
     for image_path in find_images(args.images):
@@ -78,6 +85,15 @@ if __name__ == '__main__':
 
         logging.info(f'image_path: {image_path} score: {score} blurry: {blurry}')
         results.append({'input_path': str(image_path), 'score': score, 'blurry': blurry})
+
+        if args.copy is not None:
+            if blurry == False:
+                filename = os.path.basename(image_path)
+                filename = os.path.splitext(filename)[0]+os.path.splitext(filename)[1]
+                copypath = str(copy) + '/' +  str(filename) # unix systems only - either there is a better way with os.path stuff or check os and replace / with \
+                sourcepath = str(image_path)
+                shutil.copy2(sourcepath, copypath)
+                logging.info(f'copied unblurry image: {sourcepath} to: {copypath}')
 
         if args.display:
             cv2.imshow('input', image)

@@ -99,3 +99,4 @@ ENV/
 *.jpg
 *.jpeg
 *.png
+.DS_Store
