@@ -88,7 +88,6 @@ if __name__ == '__main__':
 
         if args.copy is not None:
             if blurry == False:
-                filename = os.path.splitext(image_path)[0]
                 filename = os.path.basename(image_path)
                 filename = os.path.splitext(filename)[0]+os.path.splitext(filename)[1]
                 copypath = str(copy) + '/' +  str(filename) # unix systems only - either there is a better way with os.path stuff or check os and replace / with \
