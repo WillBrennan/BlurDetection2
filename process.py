@@ -17,6 +17,7 @@ def parse_args():
     parser.add_argument('-s', '--save-path', type=str, default=None, help='path to save output')
 
     parser.add_argument('-t', '--threshold', type=float, default=100.0, help='blurry threshold')
+    parser.add_argument('-k', '--kernel-size', type=int, default=1, help='kernel size')
     parser.add_argument('-f', '--variable-size', action='store_true', help='fix the image size')
 
     parser.add_argument('-v', '--verbose', action='store_true', help='set logging level to debug')
@@ -74,7 +75,7 @@ if __name__ == '__main__':
         else:
             logging.warning('not normalizing image size for consistent scoring!')
 
-        blur_map, score, blurry = estimate_blur(image, threshold=args.threshold)
+        blur_map, score, blurry = estimate_blur(image, threshold=args.threshold, ksize=args.kernel_size)
 
         logging.info(f'image_path: {image_path} score: {score} blurry: {blurry}')
         results.append({'input_path': str(image_path), 'score': score, 'blurry': blurry})
